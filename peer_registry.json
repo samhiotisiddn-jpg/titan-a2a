@@ -1,12 +1,12 @@
 {
   "fractal_phone2": {
     "nodeId": "fractal_phone2",
-    "ts": 1789407662461,
-    "mem": 1245588,
-    "load": 28.74,
+    "ts": 1789407962491,
+    "mem": 1381388,
+    "load": 28.7,
     "ip": "10.112.107.227",
     "port": 11500,
-    "sig": "743f8677c4b11953cf20a13237568de6ded3cf87fa0f4d53fa3f150616c82ede"
+    "sig": "bc999d489660d7e30c481f487bb9d47a2f1a6e4b6efc6df406d0a79dc9793184"
   },
   "titan_p1": {
     "nodeId": "titan_p1",
