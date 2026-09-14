@@ -7,5 +7,14 @@
     "ip": "10.112.107.227",
     "port": 11500,
     "sig": "959bef82d89bc57d30bb2a078cefb7aeb8f642f0dec502a9156b7b8a49506603"
+  },
+  "titan_p1": {
+    "nodeId": "titan_p1",
+    "ts": 1789393138091,
+    "mem": 970936,
+    "load": 17.86,
+    "ip": "10.112.107.21",
+    "port": 11500,
+    "sig": "9c93b1f2233c89ce98c3af35ed72f73f9dd9e7e147f236d25f1c0bbdc1b657f5"
   }
 }
