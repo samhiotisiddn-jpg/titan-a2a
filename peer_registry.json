@@ -10,11 +10,11 @@
   },
   "titan_p1": {
     "nodeId": "titan_p1",
-    "ts": 1789477517598,
-    "mem": 966980,
-    "load": 17.07,
+    "ts": 1789477817607,
+    "mem": 784892,
+    "load": 18.13,
     "ip": "10.112.107.21",
     "port": 11500,
-    "sig": "f8c2db9f6b473a0f4bc583154c38d7caae8ee4c20dec793d5466a1d351749525"
+    "sig": "a435bf8dc0014775259d7ce2b54f6bf8ae4c9cf7c98ba598462a3e1bc76b7bf5"
   }
 }
